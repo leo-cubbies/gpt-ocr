@@ -1,0 +1,11 @@
+
+## 管理番号: UNKNOWN (1件)
+
+| No. | Invoice No | Item No | Product Description | Origin | Quantity | Unit Value | Total Value |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 3578 | A5320 | Traffic Signaling Equipment for inland waterways
+Being returned after repair: Value of repair
+Schedule B Number: 9801.10.0000
+Transportation charges:
+Total Value – No Charge
+CPT A.J. Barnard & Co. Ltd., Felixstowe, UK | US | 1 | 20000.0 | 20000.0 |
